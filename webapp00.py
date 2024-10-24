@@ -5,7 +5,7 @@ import streamlit as st
 st.title("WELCOME TO MY SITE")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Seja bem-vindo ao meu rimeiro site.")
+st.header("Seja bem-vindo ao meu primeiro site.")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Aqui irei realizar meus primeiros testes de site.")
