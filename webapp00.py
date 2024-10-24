@@ -12,3 +12,8 @@ st.subheader("Aqui irei realizar meus primeiros testes de site.")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("By Thiago Santiago")
+
+# Use st.image() para adicionar uma imagem ao seu Web app
+st.image(
+st.
+"sua_imagem.jpg", caption="Minha Imagem", use_column_width=True)
